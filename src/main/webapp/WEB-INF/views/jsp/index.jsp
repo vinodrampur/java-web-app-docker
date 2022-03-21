@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru.</h2>
+			<h2>Welcome To Samrudh Technologies, Marathahalli, Sindagi, Vijaypura.</h2>
 			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
 		</div>	
 	</div>
